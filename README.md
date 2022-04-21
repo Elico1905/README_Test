@@ -5,8 +5,8 @@ Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y 
 
 
 
-|  <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="200"/>  |   <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="200"/>  |
-|   -----  |   -----  |
+|  <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="200"/>  |   <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="200"/>  |   <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="200"/>  |
+|   -----  |   -----  |   -----  |
 
 
 
@@ -22,7 +22,6 @@ Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y 
 ___
 
 ### Ejemplos
-<br>
 
 #### Ejemplo 1
 
