@@ -5,7 +5,7 @@ Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y 
 
 
 
-|  <img src="https://raw.githubusercontent.com/Elico1905/PruebaAndroid/master/app/src/main/res/drawable-v24/imagen.png" alt="drawing" width="400"/>  |   <img src="https://raw.githubusercontent.com/Elico1905/PruebaAndroid/master/app/src/main/res/drawable-v24/imagen.png" alt="drawing" width="400"/>  |
+|  <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="400"/>  |   <img src="https://firebasestorage.googleapis.com/v0/b/control-de-alumnos-cf8d7.appspot.com/o/imagen.png?alt=media&token=2fb73395-840a-42c1-88d6-12a2aff33168" alt="drawing" width="400"/>  |
 |   -----  |   -----  |
 
 
@@ -37,6 +37,6 @@ Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y 
 
 ___
 ## Documentación
-___
+
 ## Licencia 
 Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. 
